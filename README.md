@@ -63,7 +63,7 @@ Grupo Águia Branca · Moopix Tecnologia · SENAC · Brasil 🇧🇷
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=weslleyb_GAB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslleyb_GAB&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<img src="https://streak-stats.demolab.com?user=weslleyb&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR" />
+<img src="https://streak-stats.demolab.com?user=weslleyb_GAB&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR" />
 
 </div>
 
