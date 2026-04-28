@@ -14,7 +14,6 @@ Grupo Águia Branca · Moopix Tecnologia · SENAC · Brasil 🇧🇷
 [![Moopix](https://img.shields.io/badge/Consultoria-moopix.com.br-0F6E56?style=flat-square&logo=google-chrome&logoColor=white)](https://moopix.com.br)
 [![Instagram](https://img.shields.io/badge/@buback-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/buback)
 ![Profile views](https://komarev.com/ghpvc/?username=wbuback&label=Visitas+ao+perfil&color=0F6E56&style=flat-square)
-![Profile views](https://komarev.com/ghpvc/?username=weslleyb&label=Visitas+ao+perfil&color=0F6E56&style=flat-square)
 
 </div>
 
