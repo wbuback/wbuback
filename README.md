@@ -8,12 +8,12 @@
 **Tech Lead · Arquiteto de Produtos Digitais · Consultor em IA Aplicada**  
 Grupo Águia Branca · Moopix Tecnologia · SENAC · Brasil 🇧🇷
 
-![Profile views](https://komarev.com/ghpvc/?username=wbuback&color=green)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-buback-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/buback)
 [![Site](https://img.shields.io/badge/Site-buback.dev-1D9E75?style=flat-square&logo=google-chrome&logoColor=white)](https://buback.dev)
 [![Moopix](https://img.shields.io/badge/Consultoria-moopix.com.br-0F6E56?style=flat-square&logo=google-chrome&logoColor=white)](https://moopix.com.br)
 [![Instagram](https://img.shields.io/badge/@buback-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/buback)
-
+![Profile views](https://komarev.com/ghpvc/?username=wbuback&label=Visitas+ao+perfil&color=0F6E56&style=flat-square)
 ![Profile views](https://komarev.com/ghpvc/?username=weslleyb&label=Visitas+ao+perfil&color=0F6E56&style=flat-square)
 
 </div>
