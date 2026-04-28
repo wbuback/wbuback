@@ -7,11 +7,6 @@
 
 **Tech Lead · Arquiteto de Produtos Digitais · Consultor em IA Aplicada**  
 Grupo Águia Branca · Moopix Tecnologia · SENAC · Brasil 🇧🇷
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=453&height=40&lines=Tech+Lead+%7C+AI+Builder+%7C+Consultor;+17+anos+construindo+em+produ%C3%A7%C3%A3o!+👋" alt="Typing SVG">
-  </a>
-</div>
 
 ![Profile views](https://komarev.com/ghpvc/?username=wbuback&color=green)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-buback-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/buback)
